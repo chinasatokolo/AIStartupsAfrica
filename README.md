@@ -3,9 +3,10 @@ A list of AI startups in Africa with company name, sector/domain, location, cust
 
 Also available on [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Z0PKGO).
 
+### Standard Citation
 Okolo, Chinasa T., 2022, "AI Startups in Africa", https://doi.org/10.7910/DVN/Z0PKGO, Harvard Dataverse, V1, UNF:6:fJc5IDThJLwhWZpTdM4Rrg== [fileUNF]
 
-BibTex citation:
+### BibTex citation:
 
   @data{DVN/Z0PKGO_2022,  
   author = {Okolo, Chinasa T.},  
